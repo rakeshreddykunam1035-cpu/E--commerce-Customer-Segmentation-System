@@ -1,1 +1,2 @@
 # E-commerce Customer Segmentation System
+Built an unsupervised ML pipeline using K-Means and Agglomerative Clustering to group e-commerce customers into clusters, determining the optimal number of clusters using the Elbow Method and Silhouette Score.
